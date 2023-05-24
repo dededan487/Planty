@@ -41,18 +41,22 @@ label,
 
 #info1 {
     background-image: url('../images/fraise.png');
+    background-size: cover;
 }
 
 #info2 {
     background-image: url('../images/pamplemouse.png');
+    background-size: cover;
 }
 
 #info3 {
     background-image: url('../images/framboise.png');
+    background-size: cover;
 }
 
 #info4 {
     background-image: url('../images/citron.png');
+    background-size: cover;
 }
 
 #info1,
