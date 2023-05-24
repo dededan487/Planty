@@ -1,0 +1,11 @@
+.DS_Store
+._*
+Thumbs.db
+~*
+.github/
+
+node_modules
+vendor
+php_errors.log
+package-lock.json
+config.json

@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800&display=swap');
+
+body {
+    font-family: 'syne';
+    max-width: 1440px ;
+    margin: auto !important;
+}
+
+content {
+    width: auto;
+    letter-spacing: normal;
+    letter-spacing: normal;
+}
+
+main {
+    background: #ECE2DA;
+}
+
+.custom-logo {
+    width: 25%;
+}
+
+.site-primary-header-wrap {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#menu-item-780 a,
+#menu-item-784 a {
+    background-color: #DC9F96;
+    padding: 0 45px 0 45px;
+    color: white;
+}
+
+#menu-item-780 a:hover,
+#menu-item-784 a:hover {
+    background-color: #C02e44;
+}
+
+.ast-main-header-wrap {
+    height: 0px;
+}
+
+.ast-single-post .entry-content a {
+    text-decoration: none;
+}
+
+.wpforms-submit-container {
+    text-align: center;
+}
+
+#wpforms-submit-434 {
+    background-color: #DC9F96;
+}
+
+@media (min-width: 922px) {
+    .ast-primary-header-bar {
+        border-bottom-style: none;
+    }
+    
+}
+

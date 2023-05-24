@@ -1,0 +1,15 @@
+{
+	"name": "wc-product-table-block",
+	"version": "1.0.8",
+	"description": "Build package for plugins",
+	"main": "gulpfile.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Barn2 Plugins",
+	"license": "GPL-3.0",
+	"devDependencies": {
+		"gulp": "^4.0.2",
+	},
+	"dependencies": {}
+}
