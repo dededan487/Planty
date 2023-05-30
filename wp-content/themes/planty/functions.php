@@ -32,8 +32,8 @@ add_filter('wp_nav_menu_args', 'mon_wp_nav_menu_args');
  *  memoire tampon.
  */
 
-remove_action('shutdown', 'wp_ob_end_flush_all', 1);
-add_action('shutdown', function () {
-    while (@ob_end_flush())
-        ;
-});
+ remove_action('shutdown', 'wp_ob_end_flush_all', 1);
+ add_action('shutdown', function () {
+     while (@ob_end_flush())
+         ;
+ });

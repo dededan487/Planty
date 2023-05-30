@@ -39,22 +39,22 @@ label,
     position: absolute;
 }
 
-#info1 {
+#info1, #info5 {
     background-image: url('../images/fraise.png');
     background-size: cover;
 }
 
-#info2 {
+#info2, #info6{
     background-image: url('../images/pamplemouse.png');
     background-size: cover;
 }
 
-#info3 {
+#info3, #info7 {
     background-image: url('../images/framboise.png');
     background-size: cover;
 }
 
-#info4 {
+#info4, #info8{
     background-image: url('../images/citron.png');
     background-size: cover;
 }
@@ -62,7 +62,12 @@ label,
 #info1,
 #info2,
 #info3,
-#info4 {
+#info4,
+#info5,
+#info6,
+#info7,
+#info8
+{
     font-weight: 800;
     font-size: 22px;
     line-height: 24px;
